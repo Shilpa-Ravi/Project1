@@ -1,3 +1,5 @@
+/* This program will show a calculator demo*/
+
 import java.util.Scanner;
 
 public class Calculator {
